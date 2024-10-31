@@ -21,6 +21,6 @@ Because he used up all his **cache**! 😂💸
 
 ## 👀 Preview
 
-[3D PORTFOLIO](link-to-preview-image)
+[3D PORTFOLIO](https://portfolio-3d-r3f.vercel.app/)
 
 Happy coding! 😎🎨
